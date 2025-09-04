@@ -1,6 +1,7 @@
 # my_test_app
 
-A new Flutter project.
+A simple inventory app built with **Flutter** to help track pantry items.  
+The project is currently under development.  
 
 ## Getting Started
 
